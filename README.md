@@ -1,6 +1,6 @@
-# Rails discussion questions
+# Rails Routes Discussion questions
 
-Take 30 minutes to discuss the following questions with pairing partner.
+Take 30 minutes to discuss the following questions with your pairing partner.
 
 ## Rails router
 
